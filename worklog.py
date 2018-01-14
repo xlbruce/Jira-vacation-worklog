@@ -1,6 +1,3 @@
-# Usage: python worklog.py <startDate> <days> <requestTemplateFile>
-# E.g: python worklog.py 2017-12-01 30 requests-template.json
-
 # TODO parametrize script and use an getopt library like
 import sys
 import requests
